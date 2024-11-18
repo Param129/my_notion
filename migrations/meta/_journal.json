@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1731912194350,
+      "tag": "0000_sharp_ken_ellis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1731913792913,
+      "tag": "0001_gray_doctor_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1731914846200,
+      "tag": "0002_simple_black_widow",
+      "breakpoints": true
+    }
+  ]
+}

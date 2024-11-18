@@ -12,7 +12,7 @@ if(!process.env.DATABASE_URL){
 
 export default {
     schema: './src/lib/supabase/schema.ts',   // schema file
-    out: './migrations',   // output directory for generated migrations
+    out: './migrations',   // output directory for generated migrations here we have migrated schema
     driver: 'pg', //driver for database
     dbCredentials: {
       connectionString: process.env.DATABASE_URL || '',
